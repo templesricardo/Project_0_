@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stddef.h>
 
-void rand_string(char *s, size_t size) //make random string
+void rand_string(char *s, size_t size)
 {
     const char characters[] = "abcdefghijklmnopqrstuvwxyz"; 
 
